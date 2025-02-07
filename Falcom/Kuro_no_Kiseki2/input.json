@@ -1,0 +1,304 @@
+{
+  "PadBindings": [
+    {
+      "Button": "PAD_A",
+      "Bind": "KEY_G"
+    },
+    {
+      "Button": "PAD_A",
+      "Bind": "KEY_LShiftKey"
+    },
+    {
+      "Button": "PAD_A",
+      "Bind": "MOUSE_Right"
+    },
+    {
+      "Button": "PAD_B",
+      "Bind": "KEY_F"
+    },
+    {
+      "Button": "PAD_B",
+      "Bind": "MOUSE_Left"
+    },
+    {
+      "Button": "PAD_B",
+      "Bind": "KEY_Enter"
+    },
+    {
+      "Button": "PAD_X",
+      "Bind": "KEY_Q"
+    },
+    {
+      "Button": "PAD_X",
+      "Bind": "KEY_NumPad4"
+    },
+    {
+      "Button": "PAD_X",
+      "Bind": ""
+    },
+    {
+      "Button": "PAD_Y",
+      "Bind": "KEY_E"
+    },
+    {
+      "Button": "PAD_Y",
+      "Bind": "KEY_NumPad8"
+    },
+    {
+      "Button": "PAD_Y",
+      "Bind": ""
+    },
+    {
+      "Button": "PAD_Start",
+      "Bind": "KEY_Space"
+    },
+    {
+      "Button": "PAD_Start",
+      "Bind": ""
+    },
+    {
+      "Button": "PAD_Start",
+      "Bind": ""
+    },
+    {
+      "Button": "PAD_Back",
+      "Bind": "KEY_D3"
+    },
+    {
+      "Button": "PAD_Back",
+      "Bind": ""
+    },
+    {
+      "Button": "PAD_Back",
+      "Bind": ""
+    },
+    {
+      "Button": "PAD_L1",
+      "Bind": "KEY_Tab"
+    },
+    {
+      "Button": "PAD_L1",
+      "Bind": ""
+    },
+    {
+      "Button": "PAD_L1",
+      "Bind": ""
+    },
+    {
+      "Button": "PAD_R1",
+      "Bind": "KEY_LControlKey"
+    },
+    {
+      "Button": "PAD_R1",
+      "Bind": ""
+    },
+    {
+      "Button": "PAD_R1",
+      "Bind": ""
+    },
+    {
+      "Button": "PAD_L2",
+      "Bind": "KEY_D2"
+    },
+    {
+      "Button": "PAD_L2",
+      "Bind": ""
+    },
+    {
+      "Button": "PAD_L2",
+      "Bind": ""
+    },
+    {
+      "Button": "PAD_R2",
+      "Bind": "KEY_C"
+    },
+    {
+      "Button": "PAD_R2",
+      "Bind": ""
+    },
+    {
+      "Button": "PAD_R2",
+      "Bind": ""
+    },
+    {
+      "Button": "PAD_L3",
+      "Bind": "KEY_H"
+    },
+    {
+      "Button": "PAD_L3",
+      "Bind": ""
+    },
+    {
+      "Button": "PAD_L3",
+      "Bind": ""
+    },
+    {
+      "Button": "PAD_R3",
+      "Bind": "KEY_V"
+    },
+    {
+      "Button": "PAD_R3",
+      "Bind": ""
+    },
+    {
+      "Button": "PAD_R3",
+      "Bind": ""
+    },
+    {
+      "Button": "PAD_TouchL",
+      "Bind": "KEY_D1"
+    },
+    {
+      "Button": "PAD_TouchL",
+      "Bind": ""
+    },
+    {
+      "Button": "PAD_TouchL",
+      "Bind": ""
+    },
+    {
+      "Button": "PAD_DPadU",
+      "Bind": "KEY_Z"
+    },
+    {
+      "Button": "PAD_DPadU",
+      "Bind": ""
+    },
+    {
+      "Button": "PAD_DPadU",
+      "Bind": ""
+    },
+    {
+      "Button": "PAD_DPadD",
+      "Bind": "KEY_X"
+    },
+    {
+      "Button": "PAD_DPadD",
+      "Bind": ""
+    },
+    {
+      "Button": "PAD_DPadD",
+      "Bind": ""
+    },
+    {
+      "Button": "PAD_DPadL",
+      "Bind": "KEY_R"
+    },
+    {
+      "Button": "PAD_DPadL",
+      "Bind": ""
+    },
+    {
+      "Button": "PAD_DPadL",
+      "Bind": ""
+    },
+    {
+      "Button": "PAD_DPadR",
+      "Bind": "KEY_T"
+    },
+    {
+      "Button": "PAD_DPadR",
+      "Bind": ""
+    },
+    {
+      "Button": "PAD_DPadR",
+      "Bind": ""
+    },
+    {
+      "Button": "PAD_StickLU",
+      "Bind": "KEY_W"
+    },
+    {
+      "Button": "PAD_StickLU",
+      "Bind": ""
+    },
+    {
+      "Button": "PAD_StickLU",
+      "Bind": ""
+    },
+    {
+      "Button": "PAD_StickLD",
+      "Bind": "KEY_S"
+    },
+    {
+      "Button": "PAD_StickLD",
+      "Bind": ""
+    },
+    {
+      "Button": "PAD_StickLD",
+      "Bind": ""
+    },
+    {
+      "Button": "PAD_StickLL",
+      "Bind": "KEY_A"
+    },
+    {
+      "Button": "PAD_StickLL",
+      "Bind": ""
+    },
+    {
+      "Button": "PAD_StickLL",
+      "Bind": ""
+    },
+    {
+      "Button": "PAD_StickLR",
+      "Bind": "KEY_D"
+    },
+    {
+      "Button": "PAD_StickLR",
+      "Bind": ""
+    },
+    {
+      "Button": "PAD_StickLR",
+      "Bind": ""
+    },
+    {
+      "Button": "PAD_StickRU",
+      "Bind": "KEY_Up"
+    },
+    {
+      "Button": "PAD_StickRU",
+      "Bind": ""
+    },
+    {
+      "Button": "PAD_StickRU",
+      "Bind": ""
+    },
+    {
+      "Button": "PAD_StickRD",
+      "Bind": "KEY_Down"
+    },
+    {
+      "Button": "PAD_StickRD",
+      "Bind": ""
+    },
+    {
+      "Button": "PAD_StickRD",
+      "Bind": ""
+    },
+    {
+      "Button": "PAD_StickRL",
+      "Bind": "KEY_Left"
+    },
+    {
+      "Button": "PAD_StickRL",
+      "Bind": ""
+    },
+    {
+      "Button": "PAD_StickRL",
+      "Bind": ""
+    },
+    {
+      "Button": "PAD_StickRR",
+      "Bind": "KEY_Right"
+    },
+    {
+      "Button": "PAD_StickRR",
+      "Bind": ""
+    },
+    {
+      "Button": "PAD_StickRR",
+      "Bind": ""
+    }
+  ]
+}

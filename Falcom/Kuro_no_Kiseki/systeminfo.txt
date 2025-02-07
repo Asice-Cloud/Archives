@@ -1,0 +1,364 @@
+SettingsFolder:C:\Users\24922\Saved Games\CLE\Kuro_no_Kiseki
+--------
+BuildNumber:22631
+Caption:Microsoft Windows 11 家庭中文版
+CodeSet:936
+CountryCode:86
+CreationClassName:Win32_OperatingSystem
+CSCreationClassName:Win32_ComputerSystem
+CurrentTimeZone:480
+FreePhysicalMemory:9012360
+FreeSpaceInPagingFiles:8784908
+FreeVirtualMemory:13829308
+Locale:0804
+Manufacturer:Microsoft Corporation
+Name:Microsoft Windows 11 家庭中文版|C:\WINDOWS|\Device\Harddisk0\Partition3
+OSArchitecture:64 位
+OSLanguage:2052
+OSProductSuite:768
+OSType:18
+ProductType:1
+ServicePackMajorVersion:0
+ServicePackMinorVersion:0
+SizeStoredInPagingFiles:8912896
+SystemDevice:\Device\HarddiskVolume3
+SystemDirectory:C:\WINDOWS\system32
+SystemDrive:C:
+TotalSwapSpaceSize:
+TotalVirtualMemorySize:25421628
+TotalVisibleMemorySize:16508732
+Version:10.0.22631
+WindowsDirectory:C:\WINDOWS
+--------
+AdapterNum:[3]
+Adapter[0]
+  Desc   : Intel(R) UHD Graphics
+  Vram   : 134217728
+  System : 0
+  Shared : 8452470784
+  output[0]:[\\.\DISPLAY1]
+    attach:True
+    position:0,0  1920,1080
+Adapter[1]
+  Desc   : NVIDIA GeForce RTX 3050 Ti Laptop GPU
+  Vram   : 4154458112
+  System : 0
+  Shared : 8452470784
+Adapter[2]
+  Desc   : Microsoft Basic Render Driver
+  Vram   : 0
+  System : 0
+  Shared : 8452470784
+--------
+OSType:18
+Version:10
+Memory:16508732 KBytes
+Vram:134217728 Bytes
+--------
+640 x 480 24fps
+640 x 480 30fps
+640 x 480 48fps
+640 x 480 60fps
+640 x 480 72fps
+640 x 480 75fps
+640 x 480 100fps
+640 x 480 120fps
+640 x 480 144fps
+800 x 600 24fps
+800 x 600 30fps
+800 x 600 48fps
+800 x 600 60fps
+800 x 600 72fps
+800 x 600 75fps
+800 x 600 100fps
+800 x 600 120fps
+800 x 600 144fps
+1024 x 768 24fps
+1024 x 768 30fps
+1024 x 768 48fps
+1024 x 768 60fps
+1024 x 768 72fps
+1024 x 768 75fps
+1024 x 768 100fps
+1024 x 768 120fps
+1024 x 768 144fps
+1152 x 864 24fps
+1152 x 864 30fps
+1152 x 864 48fps
+1152 x 864 60fps
+1152 x 864 72fps
+1152 x 864 75fps
+1152 x 864 100fps
+1152 x 864 120fps
+1152 x 864 144fps
+1280 x 600 24fps
+1280 x 600 30fps
+1280 x 600 48fps
+1280 x 600 60fps
+1280 x 600 72fps
+1280 x 600 75fps
+1280 x 600 100fps
+1280 x 600 120fps
+1280 x 600 144fps
+1280 x 720 24fps
+1280 x 720 30fps
+1280 x 720 48fps
+1280 x 720 60fps
+1280 x 720 72fps
+1280 x 720 75fps
+1280 x 720 100fps
+1280 x 720 120fps
+1280 x 720 144fps
+1280 x 768 24fps
+1280 x 768 30fps
+1280 x 768 48fps
+1280 x 768 60fps
+1280 x 768 72fps
+1280 x 768 75fps
+1280 x 768 100fps
+1280 x 768 120fps
+1280 x 768 144fps
+1280 x 800 24fps
+1280 x 800 30fps
+1280 x 800 48fps
+1280 x 800 60fps
+1280 x 800 72fps
+1280 x 800 75fps
+1280 x 800 100fps
+1280 x 800 120fps
+1280 x 800 144fps
+1280 x 960 24fps
+1280 x 960 30fps
+1280 x 960 48fps
+1280 x 960 60fps
+1280 x 960 72fps
+1280 x 960 75fps
+1280 x 960 100fps
+1280 x 960 120fps
+1280 x 960 144fps
+1280 x 1024 24fps
+1280 x 1024 30fps
+1280 x 1024 48fps
+1280 x 1024 60fps
+1280 x 1024 72fps
+1280 x 1024 75fps
+1280 x 1024 100fps
+1280 x 1024 120fps
+1280 x 1024 144fps
+1360 x 768 24fps
+1360 x 768 30fps
+1360 x 768 48fps
+1360 x 768 60fps
+1360 x 768 72fps
+1360 x 768 75fps
+1360 x 768 100fps
+1360 x 768 120fps
+1360 x 768 144fps
+1366 x 768 24fps
+1366 x 768 30fps
+1366 x 768 48fps
+1366 x 768 60fps
+1366 x 768 72fps
+1366 x 768 75fps
+1366 x 768 100fps
+1366 x 768 120fps
+1366 x 768 144fps
+1400 x 1050 24fps
+1400 x 1050 30fps
+1400 x 1050 48fps
+1400 x 1050 60fps
+1400 x 1050 72fps
+1400 x 1050 75fps
+1400 x 1050 100fps
+1400 x 1050 120fps
+1400 x 1050 144fps
+1440 x 900 24fps
+1440 x 900 30fps
+1440 x 900 48fps
+1440 x 900 60fps
+1440 x 900 72fps
+1440 x 900 75fps
+1440 x 900 100fps
+1440 x 900 120fps
+1440 x 900 144fps
+1600 x 900 24fps
+1600 x 900 30fps
+1600 x 900 48fps
+1600 x 900 60fps
+1600 x 900 72fps
+1600 x 900 75fps
+1600 x 900 100fps
+1600 x 900 120fps
+1600 x 900 144fps
+1680 x 1050 24fps
+1680 x 1050 30fps
+1680 x 1050 48fps
+1680 x 1050 60fps
+1680 x 1050 72fps
+1680 x 1050 75fps
+1680 x 1050 100fps
+1680 x 1050 120fps
+1680 x 1050 144fps
+1920 x 1080 24fps
+1920 x 1080 30fps
+1920 x 1080 48fps
+1920 x 1080 60fps
+1920 x 1080 72fps
+1920 x 1080 75fps
+1920 x 1080 100fps
+1920 x 1080 120fps
+1920 x 1080 144fps
+All-----
+1920 x 1080 144 Hz 32 bits
+1920 x 1080 120 Hz 32 bits
+1920 x 1080 100 Hz 32 bits
+1920 x 1080 75 Hz 32 bits
+1920 x 1080 60 Hz 32 bits
+1920 x 1080 48 Hz 32 bits
+1920 x 1080 30 Hz 32 bits
+1920 x 1080 24 Hz 32 bits
+1920 x 1080 72 Hz 32 bits
+640 x 480 144 Hz 32 bits
+640 x 480 120 Hz 32 bits
+640 x 480 100 Hz 32 bits
+640 x 480 75 Hz 32 bits
+640 x 480 60 Hz 32 bits
+640 x 480 48 Hz 32 bits
+640 x 480 30 Hz 32 bits
+640 x 480 24 Hz 32 bits
+640 x 480 72 Hz 32 bits
+800 x 600 144 Hz 32 bits
+800 x 600 120 Hz 32 bits
+800 x 600 100 Hz 32 bits
+800 x 600 75 Hz 32 bits
+800 x 600 60 Hz 32 bits
+800 x 600 48 Hz 32 bits
+800 x 600 30 Hz 32 bits
+800 x 600 24 Hz 32 bits
+800 x 600 72 Hz 32 bits
+1024 x 768 144 Hz 32 bits
+1024 x 768 120 Hz 32 bits
+1024 x 768 100 Hz 32 bits
+1024 x 768 75 Hz 32 bits
+1024 x 768 60 Hz 32 bits
+1024 x 768 48 Hz 32 bits
+1024 x 768 30 Hz 32 bits
+1024 x 768 24 Hz 32 bits
+1024 x 768 72 Hz 32 bits
+1152 x 864 144 Hz 32 bits
+1152 x 864 120 Hz 32 bits
+1152 x 864 100 Hz 32 bits
+1152 x 864 75 Hz 32 bits
+1152 x 864 60 Hz 32 bits
+1152 x 864 48 Hz 32 bits
+1152 x 864 30 Hz 32 bits
+1152 x 864 24 Hz 32 bits
+1152 x 864 72 Hz 32 bits
+1280 x 600 144 Hz 32 bits
+1280 x 600 120 Hz 32 bits
+1280 x 600 100 Hz 32 bits
+1280 x 600 75 Hz 32 bits
+1280 x 600 60 Hz 32 bits
+1280 x 600 48 Hz 32 bits
+1280 x 600 30 Hz 32 bits
+1280 x 600 24 Hz 32 bits
+1280 x 600 72 Hz 32 bits
+1280 x 720 144 Hz 32 bits
+1280 x 720 120 Hz 32 bits
+1280 x 720 100 Hz 32 bits
+1280 x 720 75 Hz 32 bits
+1280 x 720 60 Hz 32 bits
+1280 x 720 48 Hz 32 bits
+1280 x 720 30 Hz 32 bits
+1280 x 720 24 Hz 32 bits
+1280 x 720 72 Hz 32 bits
+1280 x 768 144 Hz 32 bits
+1280 x 768 120 Hz 32 bits
+1280 x 768 100 Hz 32 bits
+1280 x 768 75 Hz 32 bits
+1280 x 768 60 Hz 32 bits
+1280 x 768 48 Hz 32 bits
+1280 x 768 30 Hz 32 bits
+1280 x 768 24 Hz 32 bits
+1280 x 768 72 Hz 32 bits
+1280 x 800 144 Hz 32 bits
+1280 x 800 120 Hz 32 bits
+1280 x 800 100 Hz 32 bits
+1280 x 800 75 Hz 32 bits
+1280 x 800 60 Hz 32 bits
+1280 x 800 48 Hz 32 bits
+1280 x 800 30 Hz 32 bits
+1280 x 800 24 Hz 32 bits
+1280 x 800 72 Hz 32 bits
+1280 x 960 144 Hz 32 bits
+1280 x 960 120 Hz 32 bits
+1280 x 960 100 Hz 32 bits
+1280 x 960 75 Hz 32 bits
+1280 x 960 60 Hz 32 bits
+1280 x 960 48 Hz 32 bits
+1280 x 960 30 Hz 32 bits
+1280 x 960 24 Hz 32 bits
+1280 x 960 72 Hz 32 bits
+1280 x 1024 144 Hz 32 bits
+1280 x 1024 120 Hz 32 bits
+1280 x 1024 100 Hz 32 bits
+1280 x 1024 75 Hz 32 bits
+1280 x 1024 60 Hz 32 bits
+1280 x 1024 48 Hz 32 bits
+1280 x 1024 30 Hz 32 bits
+1280 x 1024 24 Hz 32 bits
+1280 x 1024 72 Hz 32 bits
+1360 x 768 144 Hz 32 bits
+1360 x 768 120 Hz 32 bits
+1360 x 768 100 Hz 32 bits
+1360 x 768 75 Hz 32 bits
+1360 x 768 60 Hz 32 bits
+1360 x 768 48 Hz 32 bits
+1360 x 768 30 Hz 32 bits
+1360 x 768 24 Hz 32 bits
+1360 x 768 72 Hz 32 bits
+1366 x 768 144 Hz 32 bits
+1366 x 768 120 Hz 32 bits
+1366 x 768 100 Hz 32 bits
+1366 x 768 75 Hz 32 bits
+1366 x 768 60 Hz 32 bits
+1366 x 768 48 Hz 32 bits
+1366 x 768 30 Hz 32 bits
+1366 x 768 24 Hz 32 bits
+1366 x 768 72 Hz 32 bits
+1400 x 1050 144 Hz 32 bits
+1400 x 1050 120 Hz 32 bits
+1400 x 1050 100 Hz 32 bits
+1400 x 1050 75 Hz 32 bits
+1400 x 1050 60 Hz 32 bits
+1400 x 1050 48 Hz 32 bits
+1400 x 1050 30 Hz 32 bits
+1400 x 1050 24 Hz 32 bits
+1400 x 1050 72 Hz 32 bits
+1440 x 900 144 Hz 32 bits
+1440 x 900 120 Hz 32 bits
+1440 x 900 100 Hz 32 bits
+1440 x 900 75 Hz 32 bits
+1440 x 900 60 Hz 32 bits
+1440 x 900 48 Hz 32 bits
+1440 x 900 30 Hz 32 bits
+1440 x 900 24 Hz 32 bits
+1440 x 900 72 Hz 32 bits
+1600 x 900 144 Hz 32 bits
+1600 x 900 120 Hz 32 bits
+1600 x 900 100 Hz 32 bits
+1600 x 900 75 Hz 32 bits
+1600 x 900 60 Hz 32 bits
+1600 x 900 48 Hz 32 bits
+1600 x 900 30 Hz 32 bits
+1600 x 900 24 Hz 32 bits
+1600 x 900 72 Hz 32 bits
+1680 x 1050 144 Hz 32 bits
+1680 x 1050 120 Hz 32 bits
+1680 x 1050 100 Hz 32 bits
+1680 x 1050 75 Hz 32 bits
+1680 x 1050 60 Hz 32 bits
+1680 x 1050 48 Hz 32 bits
+1680 x 1050 30 Hz 32 bits
+1680 x 1050 24 Hz 32 bits
+1680 x 1050 72 Hz 32 bits

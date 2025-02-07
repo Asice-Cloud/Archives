@@ -1,0 +1,25 @@
+{
+  "ScreenMode": "FULLSCREEN",
+  "ExpandType": "AUTO",
+  "VSync": true,
+  "Resolution": {
+    "Width": 1280,
+    "Height": 720,
+    "Hz": 60
+  },
+  "FullScreenResolution": {
+    "Width": 1920,
+    "Height": 1080,
+    "Hz": 144
+  },
+  "AntiAlias": "SMAA",
+  "ShadowResolution": "High",
+  "SSAO": true,
+  "SSR": true,
+  "Mouse": {
+    "MoveCameraWithMouse": true,
+    "Sensitivity": 0.0
+  },
+  "ButtonPrompts": "Mouse / KB",
+  "SkipLogos": false
+}

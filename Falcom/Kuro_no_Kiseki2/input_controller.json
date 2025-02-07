@@ -1,0 +1,68 @@
+{
+  "PadBindings": [
+    {
+      "Button": "PAD_A",
+      "Bind": "PAD_B"
+    },
+    {
+      "Button": "PAD_B",
+      "Bind": "PAD_A"
+    },
+    {
+      "Button": "PAD_X",
+      "Bind": "PAD_X"
+    },
+    {
+      "Button": "PAD_Y",
+      "Bind": "PAD_Y"
+    },
+    {
+      "Button": "PAD_Start",
+      "Bind": "PAD_Start"
+    },
+    {
+      "Button": "PAD_Back",
+      "Bind": "PAD_Back"
+    },
+    {
+      "Button": "PAD_L1",
+      "Bind": "PAD_L1"
+    },
+    {
+      "Button": "PAD_L2",
+      "Bind": "PAD_L2"
+    },
+    {
+      "Button": "PAD_R1",
+      "Bind": "PAD_R1"
+    },
+    {
+      "Button": "PAD_R2",
+      "Bind": "PAD_R2"
+    },
+    {
+      "Button": "PAD_L3",
+      "Bind": "PAD_TouchL"
+    },
+    {
+      "Button": "PAD_R3",
+      "Bind": "PAD_R3"
+    },
+    {
+      "Button": "PAD_DPadU",
+      "Bind": "PAD_DPadU"
+    },
+    {
+      "Button": "PAD_DPadD",
+      "Bind": "PAD_DPadD"
+    },
+    {
+      "Button": "PAD_DPadL",
+      "Bind": "PAD_DPadL"
+    },
+    {
+      "Button": "PAD_DPadR",
+      "Bind": "PAD_DPadR"
+    }
+  ]
+}

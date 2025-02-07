@@ -1,0 +1,33 @@
+{
+  "ScreenMode": "FULLSCREEN",
+  "ExpandType": "AUTO",
+  "VSync": false,
+  "Resolution": {
+    "Width": 1280,
+    "Height": 720,
+    "Hz": 60
+  },
+  "FullScreenResolution": {
+    "Width": 1920,
+    "Height": 1080,
+    "Hz": 120
+  },
+  "AntiAlias": "SMAA",
+  "ShadowResolution": "High",
+  "SSAO": true,
+  "SSR": true,
+  "Mouse": {
+    "MoveCameraWithMouse": true,
+    "Sensitivity": 0.0
+  },
+  "ButtonPrompts": "Mouse / KB",
+  "SkipLogos": false,
+  "PauseInactiveWindow": true,
+  "VisibleMouseCursor": false,
+  "VideoAdapter": {
+    "VendorId": 4318,
+    "DeviceId": 9632,
+    "SubSysId": 334237763,
+    "Revision": 161
+  }
+}
