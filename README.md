@@ -15,7 +15,9 @@
 - [x] Kai no Kiseki
 - [x] CyberPunk 2077
 - [ ] Dark Souls II
-- [ ] Dark Souls III
+- [x] Dark Souls III
 - [ ] Hollow Knight
+- [x] Tokyo Xanadu ex+
+- [x] Ys X
 - [ ] ...
 
